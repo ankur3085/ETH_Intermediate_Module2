@@ -26,7 +26,7 @@ Before you begin, ensure you have the following installed:
 **1. Clone the repository:**
 
    ```bash
-   git clone https://github.com/IshaL-30/Smart_Bank_ATM_Intermediate_Module2.git
+   git clone https://github.com/ankur3085/ETH_Intermediate_Module2
    ```
 
 **2. Navigate to the project directory:**
